@@ -10,3 +10,5 @@
 ![Image text](https://github.com/15234477664/vue-cli/blob/master/img/2.png)
 
 注： webpackChunkName定以后，webpack打包时会将相同的打包到一个文件中，把组件按组分块
+
+解决75%打包等待的问题
